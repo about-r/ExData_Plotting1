@@ -1,4 +1,5 @@
 # Readme
+
 ## Exploratory Data Analysis: Course Project 1 
 
 ## Overview
@@ -14,7 +15,7 @@ For original instractions and details about dataset follow
   5. Push your git repository to GitHub 
 
 ## How to use the code
-1. Script are to be installed into a working folder, which will be used to download and unzip the original set. 
+1. Scripts are to be installed into a working folder, which will be used to download and unzip the original set. 
 2. In R `Change dir...` to the working folder and execute scripts one by one, for example
 ```
   source("plot1.R")
